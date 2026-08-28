@@ -39,4 +39,4 @@ Durante a pesquisa de UX/Design de Experiência com os usuários, foram identifi
 
 # Link do Projeto no Figma:
 
-[Protótipo no Figma](https://www.figma.com/make/EehSuIDHXAv4OAgm7T0nf6/Wireframe-for-Taco---Tradici%C3%B3n?t=qeuq7GCSJRhhoWHD-1)
+[Protótipo no Figma](https://www.figma.com/make/EehSuIDHXAv4OAgm7T0nf6/Wireframe-for-Taco---Tradici%C3%B3n?t=n49eu5w8H0vMCwt5-1)
