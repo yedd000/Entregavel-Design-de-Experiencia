@@ -1,4 +1,4 @@
-*Participantes do Projeto:* Larissa Correa dos Santos e Artur Rodriguez
+*Participantes do Projeto:* Larissa Correa dos Santos e Artur Rodriguez Berrêdo
 
 
 # Sobre o Projeto:
