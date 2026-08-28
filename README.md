@@ -1,3 +1,6 @@
+*Participantes do Projeto:* Larissa Correa dos Santos e Artur Rodriguez
+
+
 # Sobre o Projeto:
 
 Este projeto consiste na concepção de uma plataforma web desenvolvida para auxiliar **turistas que estão visitando o México pela primeira vez** e desejam vivenciar a autêntica culinária local de forma segura e satisfatória. 
@@ -26,7 +29,10 @@ Durante a pesquisa de UX/Design de Experiência com os usuários, foram identifi
 *Decisão Rápida e Informada:* Facilidade para escolher o local ideal de acordo com o nível de aceitação e expectativa gastronômica, evitando perda de tempo.
 
 
-# Tela Principal:
+# Telas:
+
+<img width="1394" height="761" alt="Captura de tela 2026-08-27 225458" src="https://github.com/user-attachments/assets/ceb963d2-c3ee-4765-be6d-243a20dfe2f9" />
+
 
 <img width="1424" height="778" alt="Captura de tela 2026-08-27 195827" src="https://github.com/user-attachments/assets/410a2faa-1246-4220-9748-0a8df4ffaadd" />
 
